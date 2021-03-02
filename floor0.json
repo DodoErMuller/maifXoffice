@@ -1,4 +1,18 @@
-{ "height":51,
+{ "compressionlevel":-1,
+ "editorsettings":
+    {
+     "chunksize":
+        {
+         "height":32,
+         "width":32
+        },
+     "export":
+        {
+         "format":"json",
+         "target":"map.json"
+        }
+    },
+ "height":51,
  "infinite":false,
  "layers":[
         {
@@ -497,7 +511,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.2.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -2443,6 +2457,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":1.4,
  "width":46
 }

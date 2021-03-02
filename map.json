@@ -206,7 +206,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/maifxsecret.json"
+                 "value":"_\/global\/dodoermuller.github.io\/maifXoffice\/maifxsecret.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -221,7 +221,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
